@@ -1,0 +1,4 @@
+1|Your inherit $50!
+2|Your dog has died. Thankfully, it had life insurance. Collect $75!
+3|You find $20 while walking down the street!
+4|You risk your life saving your neighbor's cat out of the tree. Collect $18
