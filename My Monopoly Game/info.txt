@@ -1,0 +1,36 @@
+GO| | 
+Cayenne|aaaaaaaaa|60
+DAL Air|@@@@@@@@@|250
+San Diego|aaaaaaaaa|80
+Jail| | 
+Community| | 
+Phoenix|aaaaaaaaa|130
+Chance| | 
+Salt Lake|bbbbbbbbb|140
+Las Vegas|bbbbbbbbb|150
+Hou Hobby|@@@@@@@@@|250
+Seattle|bbbbbbbbb|170
+Austin|ccccccccc|180
+CO Spring|ccccccccc|190
+Community| | 
+Dallas|ccccccccc|210
+Chance| | 
+Boulder|ddddddddd|230
+Free Spot| | 
+Houston|ddddddddd|240
+CO DIA|@@@@@@@@@|250
+LA|ddddddddd|260
+Go 2 Jail| | 
+Denver|%%%%%%%%%|270
+Community| | 
+San Fran|%%%%%%%%%|280
+Beverly H|%%%%%%%%%|290
+Wifi|WwWwWwWwW|245
+Chance| | 
+LA LAX|@@@@@@@@@|250
+Community| | 
+Water|WwWwWwWwW|245
+Chance| | 
+Aspen|$$$$$$$$$|350
+$75 Tax| | 
+Silicon V|$$$$$$$$$|400
